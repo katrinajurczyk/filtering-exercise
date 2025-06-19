@@ -1,0 +1,32 @@
+.App {
+  padding: 5vw;
+  background-color: #f7f7fb;
+}
+
+h2 {
+  margin-top: 0;
+  justify-self: center;
+}
+
+label {
+  font-weight: 600;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%
+}
+
+.forms {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2.5vw;
+  background-color: #aaccff;
+  padding: 2vw;
+  border-radius: 5px;
+}
+
+td {
+  padding: 1vw;
+  border-top: 1px solid #cccccc;
+}
