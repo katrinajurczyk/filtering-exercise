@@ -61,7 +61,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Quotes</h2>
+      <h1>Quotes</h1>
       <div className="forms">
         <form>
           <label htmlFor="quoteFilterInput">Quote: </label>
